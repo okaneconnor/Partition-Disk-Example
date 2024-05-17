@@ -89,7 +89,7 @@ terraform destroy
 
 This command will destroy all the resources provisioned by Terraform, including the virtual machine, managed disk, and associated resources.
 
-Conclusion
+## Conclusion
 By using this Terraform configuration, you can automate the process of partitioning a disk on an Azure virtual machine. The provided code and steps demonstrate how to provision the necessary infrastructure, connect to the virtual machine, and verify the disk partitioning.
 
 Feel free to explore and modify the Terraform configuration files to suit your specific requirements and use case.
